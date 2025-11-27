@@ -1,0 +1,182 @@
+{
+    "yeelight": {
+      "mac": "ec:4d:3e:16:12:39",
+      "plug_mac": "ac:15:a2:46:91:98",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "lifxmini": {
+      "mac": "d0:73:d5:5b:c8:23",
+      "plug_mac": "30:de:4b:4d:3c:ce",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "wiz": {
+      "mac": "d8:a0:11:49:ef:50",
+      "plug_mac": "30:de:4b:4d:2c:7d",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "lepro":{
+        "mac": "cc:8c:bf:cb:e1:df",
+        "plug_mac": "30:de:4b:4d:2c:7b",
+        "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "antela":{
+      "mac": "4c:a9:19:ed:6b:c1",
+      "plug_mac": "30:de:4b:4d:2c:7b",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "fitop":{
+      "mac": "38:a5:c9:af:49:dd",
+      "plug_mac": "30:de:4b:4d:3c:ce",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "tapo": {
+      "mac": "dc:62:79:d3:4f:35",
+      "plug_mac": "ac:15:a2:46:9b:6c",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "amcrest266e": {
+      "mac": "9c:8e:cd:17:26:6e",
+      "plug_mac": "ac:15:a2:46:9f:5b",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "blink0f8a": {
+      "mac": "44:42:01:4f:0f:8a",
+      "plug_mac": "ac:15:a2:46:9c:26",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+     },
+    "bluram6da9": {
+      "mac": "14:c9:cf:4a:6d:a9",
+      "plug_mac": "ac:15:a2:46:9e:82",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "google1d15": {
+      "mac": "38:86:f7:79:1d:15",
+      "plug_mac": "9c:a2:f4:6e:de:25",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "eufyb0c2": {
+      "mac": "04:17:b6:7f:b0:c2",
+      "plug_mac": "30:de:4b:4d:2c:f7",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "ringb0c2": {
+      "mac": "5c:47:5e:60:23:01",
+      "plug_mac": "30:de:4b:4d:82:ae",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "yibefb": {
+      "mac": "0c:8c:24:0b:be:fb",
+      "plug_mac": "ac:15:a2:46:9f:5b",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "boifun80c0": {
+      "mac": "88:28:7d:43:80:c0",
+      "plug_mac": "ac:15:a2:46:95:f2",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "eufy133a": {
+      "mac": "04:17:b6:55:13:3a",
+      "plug_mac": "30:de:4b:4d:82:ae",
+      "pi_mac": "d8:3a:dd:15:42:93"
+    },
+    "hualai":{
+      "mac": "78:11:dc:76:a7:08",
+      "plug_mac": "30:de:4b:4d:82:ae",
+      "pi_mac": "d8:3a:dd:17:23:ef"   
+    },
+    "Echo Dot 3": {
+      "mac": "68:9a:87:a5:fa:25",
+      "plug_mac": "30:de:4b:4d:82:ae",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "Echo Dot 5": {
+      "mac": "90:f8:2e:87:c1:2e",
+      "plug_mac": "9c:a2:f4:6e:d4:46",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "Google Nest Mini 2nd": {
+      "mac": "14:c1:4e:b0:93:7e",
+      "plug_mac": "9c:a2:f4:6e:fb:19",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "Googlehome": {
+      "mac": "54:60:09:6f:32:84",
+      "plug_mac": "ac:15:a2:4c:d0:d0",
+      "pi_mac": "d8:3a:dd:17:23:ef"     
+    },
+    "Sonos": {
+      "mac": "38:42:0b:68:76:30",
+      "plug_mac": "30:de:4b:4d:3c:ce",
+      "pi_mac": "d8:3a:dd:15:42:42"    
+    },
+    "Bose":{
+      "mac": "ac:bf:71:6b:e8:5b",
+      "plug_mac": "ac:15:a2:46:9b:90",
+      "pi_mac": "d8:3a:dd:15:42:93"  
+    },
+    "Homepod": {
+      "mac": "58:d3:49:49:77:31",
+      "plug_mac": "ac:15:a2:46:9e:82",
+      "pi_mac": "d8:3a:dd:17:22:30"  
+    },
+    "Echo Spot": {
+      "mac": "5c:41:5a:29:ad:97",
+      "plug_mac": "9c:a2:f4:6e:d4:46",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "appletv": {
+      "mac": "50:32:37:b9:f7:69",
+      "plug_mac": "ac:15:a2:46:9e:d2",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "tcltv": {
+      "mac": "28:7e:80:96:8d:91",
+      "plug_mac": "30:de:4b:4d:30:39",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "samsungtv":{
+      "mac": "bc:df:58:5f:bd:ca",
+      "plug_mac": "ac:15:a2:46:9e:d2",
+      "pi_mac": "d8:3a:dd:17:23:ef"
+    },
+    "samsungtvsmall":{
+      "mac": "b0:99:d7:2d:54:20",
+      "plug_mac": "30:de:4b:4d:84:6e",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "LGtv": {
+      "mac": "b8:16:5f:ef:fb:58",
+      "plug_mac": "ac:15:a2:46:9e:82",
+      "pi_mac": "d8:3a:dd:17:22:30"
+    },
+    "Honeywell": {
+      "mac": "48:a2:e6:c9:80:f1",
+      "plug_mac": "9c:a2:f4:6e:fb:19",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "levoit": {
+      "mac": "c4:dd:57:4a:4a:9c",
+      "plug_mac": "ac:15:a2:46:95:f2",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "swan": {
+      "mac": "c:8b:95:a0:e2:cc",
+      "plug_mac": "ac:15:a2:46:9b:90",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "xiaomiblender": {
+      "mac": "7c:c2:94:0b:da:4c",
+      "plug_mac": "ac:15:a2:46:9e:d2",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },
+    "weekett": {
+      "mac": "fc:67:1f:a9:a7:8d",
+      "plug_mac": "ac:15:a2:46:9b:de",
+      "pi_mac": "d8:3a:dd:15:42:42"
+    },   
+    "cosori": {
+      "mac": "9c:9c:1f:91:e1:b6",
+      "plug_mac": "30:de:4b:4d:44:40",
+      "pi_mac": "d8:3a:dd:17:22:30"
+    } 
+}
