@@ -116,7 +116,7 @@
     },
     "Homepod": {
       "mac": "58:d3:49:49:77:31",
-      "plug_mac": "ac:15:a2:46:9e:82",
+      "plug_mac": "ac:15:a2:46:a3:e9",
       "pi_mac": "d8:3a:dd:17:22:30"  
     },
     "Echo Spot": {
@@ -136,8 +136,8 @@
     },
     "samsungtv":{
       "mac": "bc:df:58:5f:bd:ca",
-      "plug_mac": "ac:15:a2:46:9e:d2",
-      "pi_mac": "d8:3a:dd:17:23:ef"
+      "plug_mac": "ac:15:a2:46:9b:de",
+      "pi_mac": "d8:3a:dd:15:42:93"
     },
     "samsungtvsmall":{
       "mac": "b0:99:d7:2d:54:20",
@@ -176,7 +176,7 @@
     },   
     "cosori": {
       "mac": "9c:9c:1f:91:e1:b6",
-      "plug_mac": "30:de:4b:4d:44:40",
-      "pi_mac": "d8:3a:dd:17:22:30"
+      "plug_mac": "ac:15:a2:46:9c:26",
+      "pi_mac": "d8:3a:dd:15:42:93"
     } 
 }

