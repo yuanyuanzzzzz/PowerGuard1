@@ -260,7 +260,7 @@ def plot_cluster_performance(df_clusters, perf_csv=PERF_PATH):
 
         # Label at top
         mid = (start + end) / 2
-        y_text = 112
+        y_text = 102
         ax.text(mid, y_text, cluster_map[cid], ha="center", fontsize=20, fontweight="bold", color="#333")
 
     # Dumbbell Lines & Dots
@@ -269,7 +269,7 @@ def plot_cluster_performance(df_clusters, perf_csv=PERF_PATH):
     ax.scatter(x, y_active, s=150, color="#d62728", label="Active (Masked)", zorder=3, edgecolors='maroon')
 
     # Styling
-    ax.set_ylim(40, 118)
+    ax.set_ylim(40, 108)
     ax.set_ylabel("F1 Score (%)", fontsize=26)
     ax.set_xticks(x)
     ax.set_xticklabels(devices, rotation=90, fontsize=16)
@@ -469,14 +469,14 @@ def plot_category_performance(df_clusters, perf_csv=PERF_PATH):
     ax.scatter(x, y_active, s=130, color="#d62728", label="Active (Masked)")
 
     # Styling
-    ax.set_ylim(40, 110)
+    ax.set_ylim(40, 105)
     ax.set_ylabel("F1 Score (%)", fontsize=26)
     ax.set_xticks(x)
     ax.set_xticklabels(devices, rotation=90, fontsize=18)
 
     ax.grid(axis="y", linestyle="--", alpha=0.5)
     sns.despine()
-    ax.legend(fontsize=22)
+    ax.legend(fontsize=22, loc = "lower right")
 
     plt.tight_layout()
     plt.savefig("category_f1_dumbbell.pdf", dpi=300)
